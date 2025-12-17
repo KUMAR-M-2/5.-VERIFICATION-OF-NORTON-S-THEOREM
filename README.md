@@ -5,6 +5,7 @@
 To verify Norton’s theorem practically and theoretically for the given DC circuit.
 
 **APPARATUS REQUIRED:**
+<img width="456" height="307" alt="image" src="https://github.com/user-attachments/assets/4aa41388-08f4-4a08-8fc3-1be61778023f" />
 
 1.	Regulated Power supply ( RPS)	(0-30 V)	1
 2.	Voltmeter	(0-30 V) MC	1
@@ -24,20 +25,7 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
  
 **CIRCUIT DIAGRAM: VERIFICATION OF NORTON’S THEOREM**
 
-**To measure IL**
-
-
-**To measure RTh or RN**
-
-
-
-**To measure IN or Isc**
-
- 
-**Thevenin’s equivalent circuit**
-
-
-**Norton’s equivalent circuit**
+![WhatsApp Image 2025-12-16 at 20 29 33_959e0afd](https://github.com/user-attachments/assets/a41dfd57-b7aa-4bb9-8066-6bb74282bb36)
 
 
 **PROCEDURE:**
@@ -70,25 +58,20 @@ Norton’s Resistance, RN:It is the look-back resistance across the load termina
 
 12.	Theoretically verify the Norton’s theorem.
 
-**TABULAR COLUMN: 1**
-To measure I L
-
-Vi (volts)	IL (amps)
-
-**TABULAR COLUMN:2**
-
-To measure RTh or RN
-
-Vi (volts)	RTh (Ω)
+**TABULAR COLUMU:**
+	<img width="501" height="474" alt="image" src="https://github.com/user-attachments/assets/55775460-77b2-4e42-851b-66ab344da16c" />
 
 
-**TABULAR COLUMN:3**
 
-To measure IN or Isc
 
-Vi (volts)	IN (amps)
-	
+
 **MODEL CALCULATION:**
+
+
+<img width="461" height="341" alt="image" src="https://github.com/user-attachments/assets/38e48a29-8bbd-4271-8c74-6d6dfef2d02f" />
+
+![WhatsApp Image 2025-12-16 at 20 29 29_538ecf4c](https://github.com/user-attachments/assets/6ab3724c-b743-4fb5-b04b-580a632fe9a4)
+
 
 Practical value of IL (from tabulation 1) =2.3mA
 
@@ -97,7 +80,12 @@ Practical value of IL (from tabulation 1) =2.3mA
 IL = IN * RN / ( RN+ RL ) = 2.43mA
 
 Theoretical calculation of IL ,IN and RTh(RN) for the given circuit:
+
+
+ **MARK SPLIT:**
+
  
+![WhatsApp Image 2025-12-16 at 20 29 28_4bb868b4](https://github.com/user-attachments/assets/42851a1f-2f2f-4921-8605-b22ddaca61b0)
 
 
 **RESULT:**
